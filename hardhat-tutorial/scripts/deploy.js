@@ -33,3 +33,5 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
+// Crypto Devs Token Contract Address: 0x1a55E60E7770401c96B08516E10b2807566FEe79
